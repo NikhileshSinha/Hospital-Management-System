@@ -1,0 +1,8 @@
+To install and run this file on your pc, do following steps :
+
+1. Download this file in .zip file.
+2. Extract Hospital-Management-System-main, and copy this file.
+3. Go to This pc-> Documents -> Visual Studio 2012 -> Projects.
+4. Past the copied file in that location.
+5. Now go to Hospital-Management-System-main -> Hospital_Management_System -> obj ->Debug ->Hospital_Management_System.exe
+6. Double click on Hospital_Management_System.exe , and My software will run safely !!!
