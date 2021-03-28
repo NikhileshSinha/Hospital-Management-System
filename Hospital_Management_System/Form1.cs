@@ -33,7 +33,7 @@ namespace Hospital_Management_System
 
         private void Click_Exit(object sender, EventArgs e)
         {
-            this.Hide();
+            this.Close();
         }
 
         private void Click_About(object sender, EventArgs e)
