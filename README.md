@@ -23,7 +23,7 @@ Just follow my steps (at first read the whole instruction and then follow them):
 
 1. Open Task Manager in your PC.
 2. Search for "Hospital_Management_System" in task manager, and select it.
-3. After Select the running Program, Press "End Task" or "Del" Key!
+3. After selecting the running Program, Press "End Task" or "Del" Key!
 4. Program'll Successfully Stopped!
 
 ## YouTube Tutorial Link :
