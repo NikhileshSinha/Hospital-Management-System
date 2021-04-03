@@ -1,7 +1,7 @@
 # Hospital Management System
 - This is a Hospital Management Program, fully written in C-Sharp, with full hospital functionality.
 
-![sample-tutorial](https://github.com/noobshubham/Hospital-Management-System/blob/main/output.gif)
+![sample-tutorial](https://github.com/NikhileshSinha/Hospital-Management-System/blob/main/output.gif)
 
 ## Features
 - Login / Registeration
